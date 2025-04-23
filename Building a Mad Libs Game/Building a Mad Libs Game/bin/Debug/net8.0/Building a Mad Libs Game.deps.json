@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Building a Mad Libs Game/1.0.0": {
+        "runtime": {
+          "Building a Mad Libs Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Building a Mad Libs Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

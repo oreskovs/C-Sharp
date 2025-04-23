@@ -1,0 +1,14 @@
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\bin\Debug\net8.0\Building a Mad Libs Game.exe
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\bin\Debug\net8.0\Building a Mad Libs Game.deps.json
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\bin\Debug\net8.0\Building a Mad Libs Game.runtimeconfig.json
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\bin\Debug\net8.0\Building a Mad Libs Game.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\bin\Debug\net8.0\Building a Mad Libs Game.pdb
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\net8.0\Building a Mad Libs Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\net8.0\Building a Mad Libs Game.AssemblyInfoInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\net8.0\Building a Mad Libs Game.AssemblyInfo.cs
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\net8.0\Building a Mad Libs Game.csproj.CoreCompileInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\net8.0\Building a Mad Libs Game.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\net8.0\refint\Building a Mad Libs Game.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\net8.0\Building a Mad Libs Game.pdb
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\net8.0\Building a Mad Libs Game.genruntimeconfig.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\net8.0\ref\Building a Mad Libs Game.dll
