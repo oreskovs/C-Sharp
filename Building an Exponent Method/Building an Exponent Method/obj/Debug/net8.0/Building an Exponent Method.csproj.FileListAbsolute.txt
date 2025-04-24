@@ -1,0 +1,14 @@
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\bin\Debug\net8.0\Building an Exponent Method.exe
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\bin\Debug\net8.0\Building an Exponent Method.deps.json
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\bin\Debug\net8.0\Building an Exponent Method.runtimeconfig.json
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\bin\Debug\net8.0\Building an Exponent Method.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\bin\Debug\net8.0\Building an Exponent Method.pdb
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\obj\Debug\net8.0\Building an Exponent Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\obj\Debug\net8.0\Building an Exponent Method.AssemblyInfoInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\obj\Debug\net8.0\Building an Exponent Method.AssemblyInfo.cs
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\obj\Debug\net8.0\Building an Exponent Method.csproj.CoreCompileInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\obj\Debug\net8.0\Building an Exponent Method.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\obj\Debug\net8.0\refint\Building an Exponent Method.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\obj\Debug\net8.0\Building an Exponent Method.pdb
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\obj\Debug\net8.0\Building an Exponent Method.genruntimeconfig.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Building an Exponent Method\Building an Exponent Method\obj\Debug\net8.0\ref\Building an Exponent Method.dll
