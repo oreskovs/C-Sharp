@@ -1,0 +1,14 @@
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\bin\Debug\net8.0\Calculatorv2.exe
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\bin\Debug\net8.0\Calculatorv2.deps.json
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\bin\Debug\net8.0\Calculatorv2.runtimeconfig.json
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\bin\Debug\net8.0\Calculatorv2.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\bin\Debug\net8.0\Calculatorv2.pdb
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\obj\Debug\net8.0\Calculatorv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\obj\Debug\net8.0\Calculatorv2.AssemblyInfoInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\obj\Debug\net8.0\Calculatorv2.AssemblyInfo.cs
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\obj\Debug\net8.0\Calculatorv2.csproj.CoreCompileInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\obj\Debug\net8.0\Calculatorv2.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\obj\Debug\net8.0\refint\Calculatorv2.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\obj\Debug\net8.0\Calculatorv2.pdb
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\obj\Debug\net8.0\Calculatorv2.genruntimeconfig.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Calculatorv2\Calculatorv2\obj\Debug\net8.0\ref\Calculatorv2.dll
