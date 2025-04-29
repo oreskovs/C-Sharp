@@ -1,0 +1,16 @@
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.exe
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.deps.json
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.runtimeconfig.json
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.dll
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\bin\Debug\net8.0-windows\BankAccountApp.pdb
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.csproj.GenerateResource.cache
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.AssemblyInfoInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.AssemblyInfo.cs
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.dll
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\refint\BankAccountApp.dll
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.pdb
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.genruntimeconfig.cache
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\ref\BankAccountApp.dll
+C:\Users\Stojance Oreskov\Desktop\C# OOP\BankAccountApp\BankAccountApp\obj\Debug\net8.0-windows\BankAccountApp.App.resources
