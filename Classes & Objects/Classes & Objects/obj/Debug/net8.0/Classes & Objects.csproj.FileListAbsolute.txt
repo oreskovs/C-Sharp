@@ -1,0 +1,14 @@
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.exe
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.deps.json
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.runtimeconfig.json
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\bin\Debug\net8.0\Classes & Objects.pdb
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.AssemblyInfoInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.AssemblyInfo.cs
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.csproj.CoreCompileInputs.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\obj\Debug\net8.0\refint\Classes & Objects.dll
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.pdb
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\obj\Debug\net8.0\Classes & Objects.genruntimeconfig.cache
+C:\Users\Stojance Oreskov\Desktop\C#\Classes & Objects\Classes & Objects\obj\Debug\net8.0\ref\Classes & Objects.dll
