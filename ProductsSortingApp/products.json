@@ -1,0 +1,93 @@
+﻿[
+    {
+        "Name": "Milk",
+        "Price": 25.5,
+        "IsPerishable": true,
+        "Quantity": 10
+    },
+    {
+        "Name": "Bread",
+        "Price": 12.2,
+        "IsPerishable": true,
+        "Quantity": 5
+    },
+    {
+        "Name": "Applesauce",
+        "Price": 34.4,
+        "IsPerishable": true,
+        "Quantity": 5
+    },
+    {
+        "Name": "Yogurt",
+        "Price": 9.9,
+        "IsPerishable": true,
+        "Quantity": 20
+    },
+    {
+        "Name": "Tomatoes",
+        "Price": 21.1,
+        "IsPerishable": true,
+        "Quantity": 12
+    },
+    {
+        "Name": "Chicken",
+        "Price": 55.5,
+        "IsPerishable": true,
+        "Quantity": 7
+    },
+
+    {
+        "Name": "Rice",
+        "Price": 40.0,
+        "IsPerishable": false,
+        "Quantity": 50
+    },
+    {
+        "Name": "Canned Beans",
+        "Price": 18.8,
+        "IsPerishable": false,
+        "Quantity": 40
+    },
+    {
+        "Name": "Pasta",
+        "Price": 23.3,
+        "IsPerishable": false,
+        "Quantity": 30
+    },
+    {
+        "Name": "Salt",
+        "Price": 5.5,
+        "IsPerishable": false,
+        "Quantity": 100
+    },
+    {
+        "Name": "Sugar",
+        "Price": 10.0,
+        "IsPerishable": false,
+        "Quantity": 60
+    },
+    {
+        "Name": "Olive Oil",
+        "Price": 60.0,
+        "IsPerishable": false,
+        "Quantity": 25
+    },
+    {
+        "Name": "Flour",
+        "Price": 32.2,
+        "IsPerishable": false,
+        "Quantity": 45
+    },
+    {
+        "Name": "Coffee Beans",
+        "Price": 75.5,
+        "IsPerishable": false,
+        "Quantity": 18
+    },
+    {
+        "Name": "Dried Apricots",
+        "Price": 47.7,
+        "IsPerishable": false,
+        "Quantity": 22
+    }
+]
